@@ -70,7 +70,7 @@ export default function OfficeCard({ office }: { office: officeSpace }) {
                                 width={24}
                                 height={24}
                             />
-                            <p className="font-semibold">{office.features[0]}</p>
+                            <p className="font-semibold">Fast-Connection</p>
                         </div>
                         <div className="flex items-center justify-end gap-[6px]">
                             <Image
@@ -80,7 +80,7 @@ export default function OfficeCard({ office }: { office: officeSpace }) {
                                 width={24}
                                 height={24}
                             />
-                            <p className="font-semibold">{office.tags[0]}</p>
+                            <p className="font-semibold">Secure 100%</p>
                         </div>
                     </div>
                 </div>
