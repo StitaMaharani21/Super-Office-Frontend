@@ -1,6 +1,6 @@
 # 🏢 Cari & Sewa Kantor (Next.js 15)
 
-<p align="center">
+<p>
   <img src="https://drive.google.com/uc?export=view&id=1C-jwVfwZITEsB0lfsaqqJ3bSlnpXyfSt" width="700" alt="Project Cari & Sewa Kantor"/>
 </p>
 
@@ -54,12 +54,12 @@ Aplikasi dibangun menggunakan **Next.js 15**, dengan best practice fitur:
 
 Berikut contoh tampilan dari project:
 
-<p align="center">
+<p>
   <img src="https://drive.google.com/uc?export=view&id=1zOCCWoHRiD15qus-xcfuWRHPyHeyrU1u" width="500" alt="Homepage"/>
 </p>
 
-<p align="center">
-  <img src="https://drive.google.com/15WMPcDUpw50tO4UbTxahGiJnrJYi0VR2" width="500" alt="Search Results"/>
+<p>
+  <img src="https://drive.google.com/uc?export=view&id=15WMPcDUpw50tO4UbTxahGiJnrJYi0VR2" width="500" alt="Search Results"/>
 </p>
 
 
